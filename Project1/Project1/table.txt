@@ -1,0 +1,14 @@
+trade= R R S 
+discard= 
+name=Lewis
+coins=0
+hand= 
+max=2
+chain1=
+name=Max
+coins=3
+hand= 
+max=2
+chain1=
+chain2=
+
